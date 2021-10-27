@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<root>
+  <thread id="1" time="857">
+    <method name="MyMethod" class="Foo" time="219">
+      <method name="InnerMethod" class="Bar" time="127">
+        <method name="InnerMethod" class="Bar" time="96">
+          <method name="InnerMethod" class="Bar" time="65">
+            <method name="InnerMethod" class="Bar" time="32" />
+          </method>
+        </method>
+      </method>
+      <method name="InnerMethod" class="Bar" time="30" />
+    </method>
+    <method name="MyMethod" class="Foo" time="123">
+      <method name="InnerMethod" class="Bar" time="31" />
+      <method name="InnerMethod" class="Bar" time="30" />
+    </method>
+    <method name="MyMethod" class="Foo" time="123">
+      <method name="InnerMethod" class="Bar" time="30" />
+      <method name="InnerMethod" class="Bar" time="30" />
+    </method>
+  </thread>
+  <thread id="3" time="100">
+    <method name="Method" class="Program" time="100" />
+  </thread>
+  <thread id="4" time="100">
+    <method name="Method" class="Program" time="100" />
+  </thread>
+</root>

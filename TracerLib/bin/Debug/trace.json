@@ -1,0 +1,106 @@
+{
+  "threads": [
+    {
+      "id": 1,
+      "time": 857.0,
+      "methods": [
+        {
+          "name": "MyMethod",
+          "class": "Foo",
+          "time": 219.0,
+          "methods": [
+            {
+              "name": "InnerMethod",
+              "class": "Bar",
+              "time": 127.0,
+              "methods": [
+                {
+                  "name": "InnerMethod",
+                  "class": "Bar",
+                  "time": 96.0,
+                  "methods": [
+                    {
+                      "name": "InnerMethod",
+                      "class": "Bar",
+                      "time": 65.0,
+                      "methods": [
+                        {
+                          "name": "InnerMethod",
+                          "class": "Bar",
+                          "time": 32.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "InnerMethod",
+              "class": "Bar",
+              "time": 30.0
+            }
+          ]
+        },
+        {
+          "name": "MyMethod",
+          "class": "Foo",
+          "time": 123.0,
+          "methods": [
+            {
+              "name": "InnerMethod",
+              "class": "Bar",
+              "time": 31.0
+            },
+            {
+              "name": "InnerMethod",
+              "class": "Bar",
+              "time": 30.0
+            }
+          ]
+        },
+        {
+          "name": "MyMethod",
+          "class": "Foo",
+          "time": 123.0,
+          "methods": [
+            {
+              "name": "InnerMethod",
+              "class": "Bar",
+              "time": 30.0
+            },
+            {
+              "name": "InnerMethod",
+              "class": "Bar",
+              "time": 30.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 100.0,
+      "methods": [
+        {
+          "name": "Method",
+          "class": "Program",
+          "time": 100.0,
+          "methods": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "time": 100.0,
+      "methods": [
+        {
+          "name": "Method",
+          "class": "Program",
+          "time": 100.0,
+          "methods": []
+        }
+      ]
+    }
+  ]
+}

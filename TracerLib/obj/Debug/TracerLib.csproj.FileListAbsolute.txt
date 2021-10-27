@@ -1,0 +1,9 @@
+C:\Users\mrsti\VisualProjects\Tracer-master\TracerLib\bin\Debug\TracerLib.dll
+C:\Users\mrsti\VisualProjects\Tracer-master\TracerLib\bin\Debug\TracerLib.pdb
+C:\Users\mrsti\VisualProjects\Tracer-master\TracerLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrsti\VisualProjects\Tracer-master\TracerLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrsti\VisualProjects\Tracer-master\TracerLib\obj\Debug\TracerLib.csprojAssemblyReference.cache
+C:\Users\mrsti\VisualProjects\Tracer-master\TracerLib\obj\Debug\TracerLib.csproj.CoreCompileInputs.cache
+C:\Users\mrsti\VisualProjects\Tracer-master\TracerLib\obj\Debug\TracerLib.csproj.CopyComplete
+C:\Users\mrsti\VisualProjects\Tracer-master\TracerLib\obj\Debug\TracerLib.dll
+C:\Users\mrsti\VisualProjects\Tracer-master\TracerLib\obj\Debug\TracerLib.pdb
